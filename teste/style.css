@@ -1,0 +1,15 @@
+body {
+    background-color: rgba(0, 0, 0, 0.795);
+    color: #ae8fe7;
+    font: normal 16px Calibri;
+    text-decoration: underline;
+    border-style: double;
+    
+}
+
+li {
+    text-align: center;
+    width: 350px;
+    height: 150px;
+
+}

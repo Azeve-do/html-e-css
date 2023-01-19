@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+body {
+    background-color: #000000c9;
+    font-family: Calibri;
+    font-size: 16px;
+    font-style: normal;
+}
+
+h1 {
+    color: #266129;
+}
+
+h1#principal {
+    text-align: center;
+    background-color: #008000;
+    color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 2px 2px 6px;
+}
+
+h2 {
+    color: #7ceebe;
+}
+
+p {
+    color: #7cc792;
+}
