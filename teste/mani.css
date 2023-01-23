@@ -1,6 +1,33 @@
 @charset "UTF-8";
 
 body {
-    background-color: #000000c9;
+    background-image: url('imagens/wallpaper004.jpg');
     color: #3ef9c6;
+}
+
+div#q1 {
+    width: 300px;
+    height: 300px;
+
+}
+
+div#q1:hover {
+    background-image: url('imagens/pattern003.png'); 
+}
+
+div#q2 {
+    background-image: url('imagens/pattern004.png');
+    width: 300px;
+    height: 300px;
+}
+
+
+
+nav > a{
+    color: #ffffff;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #f70d0d;
 }
