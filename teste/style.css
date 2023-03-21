@@ -2,14 +2,24 @@ body {
     background-color: rgba(0, 0, 0, 0.795);
     color: #ae8fe7;
     font: normal 16px Calibri;
-    text-decoration: underline;
-    border-style: double;
-    
 }
 
-li {
-    text-align: center;
-    width: 350px;
-    height: 150px;
+img {
+    width: 430px;
+}
 
+nav > a{
+    text-decoration: none;
+    color: #ae8fe7;
+}
+
+iframe {
+    width: 430px;
+    height: 400px;
+}
+
+#tela {
+    height: 400px;
+    width: 430px;
+    border: 1px solid black;
 }
