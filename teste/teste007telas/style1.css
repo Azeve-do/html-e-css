@@ -4,22 +4,19 @@ body {
     font: normal 16px Calibri;
 }
 
-img {
-    width: 430px;
+h1 {
+    text-shadow: 3px 3px 10px black;
 }
 
-nav > a{
+a {
+    display: inline-block;
     text-decoration: none;
+    color: white;
+}
+
+a:hover {
     color: #ae8fe7;
-}
-
-iframe {
-    width: 430px;
-    height: 400px;
-}
-
-#tela {
-    height: 400px;
-    width: 430px;
-    border: 1px solid black;
+    text-shadow: 3px 3px 3px black;
+    transform: translate( 0px, -3px);
+    transition: 0.5s;
 }
